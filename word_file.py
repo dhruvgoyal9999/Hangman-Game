@@ -1,0 +1,5 @@
+words=[
+    "apple",
+    "beautiful",
+    "apple"
+]
